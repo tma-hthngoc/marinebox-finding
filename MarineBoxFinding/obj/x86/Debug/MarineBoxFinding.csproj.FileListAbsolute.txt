@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\MarineBoxFinding\MarineBoxFinding\bin\Debug\MarineBoxFinding.exe
+C:\Users\Admin\Desktop\MarineBoxFinding\MarineBoxFinding\bin\Debug\MarineBoxFinding.pdb
+C:\Users\Admin\Desktop\MarineBoxFinding\MarineBoxFinding\obj\x86\Debug\MarineBoxFinding.exe
+C:\Users\Admin\Desktop\MarineBoxFinding\MarineBoxFinding\obj\x86\Debug\MarineBoxFinding.pdb
+C:\Users\Admin\Desktop\MarineBoxFinding\MarineBoxFinding\bin\Debug\MarineBoxFinding.exe.config
+C:\Users\Admin\Desktop\MarineBoxFinding\MarineBoxFinding\obj\x86\Debug\MarineBoxFinding.csprojResolveAssemblyReference.cache
