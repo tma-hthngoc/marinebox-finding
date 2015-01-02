@@ -4,3 +4,9 @@ C:\Users\Admin\Desktop\MarineBoxFinding\MarineBoxFinding\obj\x86\Debug\MarineBox
 C:\Users\Admin\Desktop\MarineBoxFinding\MarineBoxFinding\obj\x86\Debug\MarineBoxFinding.pdb
 C:\Users\Admin\Desktop\MarineBoxFinding\MarineBoxFinding\bin\Debug\MarineBoxFinding.exe.config
 C:\Users\Admin\Desktop\MarineBoxFinding\MarineBoxFinding\obj\x86\Debug\MarineBoxFinding.csprojResolveAssemblyReference.cache
+C:\Users\umineko\Desktop\MarineBoxFinding\MarineBoxFinding\MarineBoxFinding\bin\Debug\MarineBoxFinding.exe.config
+C:\Users\umineko\Desktop\MarineBoxFinding\MarineBoxFinding\MarineBoxFinding\bin\Debug\MarineBoxFinding.exe
+C:\Users\umineko\Desktop\MarineBoxFinding\MarineBoxFinding\MarineBoxFinding\bin\Debug\MarineBoxFinding.pdb
+C:\Users\umineko\Desktop\MarineBoxFinding\MarineBoxFinding\MarineBoxFinding\obj\x86\Debug\MarineBoxFinding.csprojResolveAssemblyReference.cache
+C:\Users\umineko\Desktop\MarineBoxFinding\MarineBoxFinding\MarineBoxFinding\obj\x86\Debug\MarineBoxFinding.exe
+C:\Users\umineko\Desktop\MarineBoxFinding\MarineBoxFinding\MarineBoxFinding\obj\x86\Debug\MarineBoxFinding.pdb
